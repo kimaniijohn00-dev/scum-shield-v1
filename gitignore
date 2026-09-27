@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# raw source dumps - data.csv already has everything merged in from these
+fraud_email_.csv
+mpesa_synthetic.csv

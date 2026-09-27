@@ -1,0 +1,51 @@
+Fraud_ID,Phone_Numbers,Fraud_Type,Complaint_ID,Complaint_Details,Customer_Care_ID,Customer_Care_Details,Status
+FRAUD1,0730320289,Identity Theft,COMP1,Complaint filed regarding Identity Theft,CC1,Under Investigation,Solved
+FRAUD2,0745251592,Phishing Scam,COMP2,Complaint filed regarding Phishing Scam,CC2,Resolved,Pending
+FRAUD3,0728092108,Unauthorized Transfer,COMP3,Complaint filed regarding Unauthorized Transfer,CC3,Pending,Pending
+FRAUD4,0781721576,Unauthorized Transfer,COMP4,Complaint filed regarding Unauthorized Transfer,CC4,Under Investigation,Pending
+FRAUD5,0759486618,Unauthorized Transfer,COMP5,Complaint filed regarding Unauthorized Transfer,CC5,Pending,Solved
+FRAUD6,0737422674,Unauthorized Transfer,COMP6,Complaint filed regarding Unauthorized Transfer,CC6,Under Investigation,Solved
+FRAUD7,0787170507,Phishing Scam,COMP7,Complaint filed regarding Phishing Scam,CC7,Under Investigation,Pending
+FRAUD8,0710618120,Phishing Scam,COMP8,Complaint filed regarding Phishing Scam,CC8,Resolved,Solved
+FRAUD9,0721498759,Unauthorized Transfer,COMP9,Complaint filed regarding Unauthorized Transfer,CC9,Under Investigation,Solved
+FRAUD10,0761733781,Unauthorized Transfer,COMP10,Complaint filed regarding Unauthorized Transfer,CC10,Under Investigation,Solved
+FRAUD11,0777744170,Phishing Scam,COMP11,Complaint filed regarding Phishing Scam,CC11,Resolved,Pending
+FRAUD12,0778880403,Phishing Scam,COMP12,Complaint filed regarding Phishing Scam,CC12,Under Investigation,Pending
+FRAUD13,0759211135,Identity Theft,COMP13,Complaint filed regarding Identity Theft,CC13,Resolved,Solved
+FRAUD14,0717149701,Phishing Scam,COMP14,Complaint filed regarding Phishing Scam,CC14,Pending,Solved
+FRAUD15,0797854331,Identity Theft,COMP15,Complaint filed regarding Identity Theft,CC15,Under Investigation,Pending
+FRAUD16,0779557401,Unauthorized Transfer,COMP16,Complaint filed regarding Unauthorized Transfer,CC16,Resolved,Solved
+FRAUD17,0736704073,Identity Theft,COMP17,Complaint filed regarding Identity Theft,CC17,Under Investigation,Pending
+FRAUD18,0757444960,Unauthorized Transfer,COMP18,Complaint filed regarding Unauthorized Transfer,CC18,Under Investigation,Pending
+FRAUD19,0741819437,Unauthorized Transfer,COMP19,Complaint filed regarding Unauthorized Transfer,CC19,Under Investigation,Pending
+FRAUD20,0746022161,Phishing Scam,COMP20,Complaint filed regarding Phishing Scam,CC20,Under Investigation,Solved
+FRAUD21,0763824472,Unauthorized Transfer,COMP21,Complaint filed regarding Unauthorized Transfer,CC21,Pending,Solved
+FRAUD22,0724161415,Identity Theft,COMP22,Complaint filed regarding Identity Theft,CC22,Under Investigation,Solved
+FRAUD23,0786366740,Identity Theft,COMP23,Complaint filed regarding Identity Theft,CC23,Under Investigation,Solved
+FRAUD24,0769130567,Phishing Scam,COMP24,Complaint filed regarding Phishing Scam,CC24,Pending,Solved
+FRAUD25,0754796129,Unauthorized Transfer,COMP25,Complaint filed regarding Unauthorized Transfer,CC25,Resolved,Solved
+FRAUD26,0752036619,Identity Theft,COMP26,Complaint filed regarding Identity Theft,CC26,Resolved,Solved
+FRAUD27,0757113714,Identity Theft,COMP27,Complaint filed regarding Identity Theft,CC27,Under Investigation,Solved
+FRAUD28,0718141185,Unauthorized Transfer,COMP28,Complaint filed regarding Unauthorized Transfer,CC28,Under Investigation,Solved
+FRAUD29,0770042276,Identity Theft,COMP29,Complaint filed regarding Identity Theft,CC29,Pending,Solved
+FRAUD30,0726847627,Unauthorized Transfer,COMP30,Complaint filed regarding Unauthorized Transfer,CC30,Pending,Solved
+FRAUD31,0720019676,Phishing Scam,COMP31,Complaint filed regarding Phishing Scam,CC31,Under Investigation,Pending
+FRAUD32,0712188460,Unauthorized Transfer,COMP32,Complaint filed regarding Unauthorized Transfer,CC32,Under Investigation,Pending
+FRAUD33,0779852263,Identity Theft,COMP33,Complaint filed regarding Identity Theft,CC33,Pending,Pending
+FRAUD34,0780218551,Unauthorized Transfer,COMP34,Complaint filed regarding Unauthorized Transfer,CC34,Resolved,Pending
+FRAUD35,0771270235,Identity Theft,COMP35,Complaint filed regarding Identity Theft,CC35,Under Investigation,Solved
+FRAUD36,0773159206,Unauthorized Transfer,COMP36,Complaint filed regarding Unauthorized Transfer,CC36,Pending,Solved
+FRAUD37,0728940366,Identity Theft,COMP37,Complaint filed regarding Identity Theft,CC37,Resolved,Solved
+FRAUD38,0772292991,Identity Theft,COMP38,Complaint filed regarding Identity Theft,CC38,Resolved,Solved
+FRAUD39,0723609743,Identity Theft,COMP39,Complaint filed regarding Identity Theft,CC39,Resolved,Solved
+FRAUD40,0764862816,Unauthorized Transfer,COMP40,Complaint filed regarding Unauthorized Transfer,CC40,Pending,Pending
+FRAUD41,0743947574,Unauthorized Transfer,COMP41,Complaint filed regarding Unauthorized Transfer,CC41,Pending,Solved
+FRAUD42,0780596583,Phishing Scam,COMP42,Complaint filed regarding Phishing Scam,CC42,Resolved,Solved
+FRAUD43,0782195225,Phishing Scam,COMP43,Complaint filed regarding Phishing Scam,CC43,Pending,Solved
+FRAUD44,0795058863,Identity Theft,COMP44,Complaint filed regarding Identity Theft,CC44,Resolved,Solved
+FRAUD45,0777100419,Identity Theft,COMP45,Complaint filed regarding Identity Theft,CC45,Under Investigation,Solved
+FRAUD46,0719445350,Unauthorized Transfer,COMP46,Complaint filed regarding Unauthorized Transfer,CC46,Resolved,Solved
+FRAUD47,0726623025,Identity Theft,COMP47,Complaint filed regarding Identity Theft,CC47,Resolved,Pending
+FRAUD48,0715224015,Identity Theft,COMP48,Complaint filed regarding Identity Theft,CC48,Under Investigation,Pending
+FRAUD49,0777748070,Unauthorized Transfer,COMP49,Complaint filed regarding Unauthorized Transfer,CC49,Under Investigation,Pending
+FRAUD50,0726618925,Identity Theft,COMP50,Complaint filed regarding Identity Theft,CC50,Pending,Solved
